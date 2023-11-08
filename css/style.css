@@ -1,0 +1,31 @@
+.grid-item { width: 25%; margin: 5px}
+.grid-item--width2 { width: 50%; }
+
+.filter-button-group {
+    margin-bottom: 10px;
+}
+
+.red {
+    width: 50px;
+    height: 50px;
+}
+
+.blue {
+    width: 50px;
+    height: 50px;
+}
+
+.yellow {
+    width: 50px;
+    height: 50px;
+}
+
+.green {
+    width: 50px;
+    height: 50px;
+}
+
+.black {
+    width: 50px;
+    height: 50px;
+}
